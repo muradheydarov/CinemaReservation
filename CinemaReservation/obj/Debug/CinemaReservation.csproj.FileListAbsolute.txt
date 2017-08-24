@@ -1,0 +1,21 @@
+c:\users\murad\documents\visual studio 2017\Projects\CinemaReservation\CinemaReservation\bin\Debug\CinemaReservation.exe.config
+c:\users\murad\documents\visual studio 2017\Projects\CinemaReservation\CinemaReservation\bin\Debug\CinemaReservation.exe
+c:\users\murad\documents\visual studio 2017\Projects\CinemaReservation\CinemaReservation\bin\Debug\CinemaReservation.pdb
+c:\users\murad\documents\visual studio 2017\Projects\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.csprojResolveAssemblyReference.cache
+c:\users\murad\documents\visual studio 2017\Projects\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.Form1.resources
+c:\users\murad\documents\visual studio 2017\Projects\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.Properties.Resources.resources
+c:\users\murad\documents\visual studio 2017\Projects\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.csproj.GenerateResource.Cache
+c:\users\murad\documents\visual studio 2017\Projects\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.exe
+c:\users\murad\documents\visual studio 2017\Projects\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.pdb
+c:\users\murad\documents\visual studio 2017\Projects\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.Form2.resources
+C:\Users\Murad\Desktop\p101-p201-18-05-2017-muradheydarov-master\p101-p201-18-05-2017-muradheydarov-master\CinemaReservation\CinemaReservation\bin\Debug\CinemaReservation.exe.config
+C:\Users\Murad\Desktop\p101-p201-18-05-2017-muradheydarov-master\p101-p201-18-05-2017-muradheydarov-master\CinemaReservation\CinemaReservation\bin\Debug\CinemaReservation.exe
+C:\Users\Murad\Desktop\p101-p201-18-05-2017-muradheydarov-master\p101-p201-18-05-2017-muradheydarov-master\CinemaReservation\CinemaReservation\bin\Debug\CinemaReservation.pdb
+C:\Users\Murad\Desktop\p101-p201-18-05-2017-muradheydarov-master\p101-p201-18-05-2017-muradheydarov-master\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.csprojResolveAssemblyReference.cache
+C:\Users\Murad\Desktop\p101-p201-18-05-2017-muradheydarov-master\p101-p201-18-05-2017-muradheydarov-master\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.Form1.resources
+C:\Users\Murad\Desktop\p101-p201-18-05-2017-muradheydarov-master\p101-p201-18-05-2017-muradheydarov-master\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.Form2.resources
+C:\Users\Murad\Desktop\p101-p201-18-05-2017-muradheydarov-master\p101-p201-18-05-2017-muradheydarov-master\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.Properties.Resources.resources
+C:\Users\Murad\Desktop\p101-p201-18-05-2017-muradheydarov-master\p101-p201-18-05-2017-muradheydarov-master\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.csproj.GenerateResource.Cache
+C:\Users\Murad\Desktop\p101-p201-18-05-2017-muradheydarov-master\p101-p201-18-05-2017-muradheydarov-master\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\p101-p201-18-05-2017-muradheydarov-master\p101-p201-18-05-2017-muradheydarov-master\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.exe
+C:\Users\Murad\Desktop\p101-p201-18-05-2017-muradheydarov-master\p101-p201-18-05-2017-muradheydarov-master\CinemaReservation\CinemaReservation\obj\Debug\CinemaReservation.pdb
